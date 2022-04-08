@@ -11,3 +11,4 @@ Tip: Look at the integration of Home Assistant with:
 
 See also: https://siytek.com/category/smart-home-tek/home-assistant/
 
+![Home_Assistant_Cloud](https://user-images.githubusercontent.com/1499433/162393937-3c206628-f5b2-4409-a355-bb88ab16a6c0.png)
